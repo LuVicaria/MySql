@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8183e40e-4295-4ab8-978e-123198c7b6ab" />
+
+
 # 🧩 Estudos e Práticas em MySQL
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
