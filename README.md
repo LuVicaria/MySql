@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8183e40e-4295-4ab8-978e-123198c7b6ab" />
+<img width="1000" height="200" alt="image" src="https://github.com/user-attachments/assets/8183e40e-4295-4ab8-978e-123198c7b6ab" />
 
 
 # 🧩 Estudos e Práticas em MySQL
